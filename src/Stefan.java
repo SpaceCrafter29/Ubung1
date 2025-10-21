@@ -1,5 +1,7 @@
 public class Stefan {
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        String stringTest = "Hello World";
+        System.out.println(stringTest);
+
     }
 }
